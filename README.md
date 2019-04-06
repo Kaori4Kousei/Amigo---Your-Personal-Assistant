@@ -4,9 +4,9 @@ Amigo is your personal assitant, it can open your favorite browser for you, it c
 How to use?
 1. Run SpeechRecognition.py
 2. Say something as follows:
-    a) "Open Google and search "................"
-    b) "Search ..............."
-    c) "Open youtube and play ........"
-    d) "Play ............."
-    e) "Switch to mozilla or any other opened window)
+    a) "Open Google and search "................" <br />
+    b) "Search ..............." <br />
+    c) "Open youtube and play ........" <br />
+    d) "Play ............." <br />
+    e) "Switch to mozilla or any other opened window) <br />
     
